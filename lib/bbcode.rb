@@ -1,5 +1,4 @@
 require 'active_support/all'
-require 'action_view/helpers/capture_helper'
 require 'action_view/helpers/tag_helper'
 require 'cgi'
 require 'bbcode/version'
